@@ -2,3 +2,4 @@ listado de frutas
 papaya 
 manzana
 durazno
+La fruta favorita el mango
